@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a Software Project to imitate LinkedIn.
+- 🌱 I’m currently learning Backend using NodeJs.
+- 📫 How to reach me: salma.aser1020@gmail.com
+- ⚡ Fun fact: A day on Venus is longer than a year on Venus! 🌌
+- explanation:
+Venus takes about 243 Earth days to rotate once on its axis, but it only takes about 225 Earth days to complete one orbit around the Sun. So, a single day on Venus is actually longer than its entire year!
 <!--
 **Salma-nasser/Salma-nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
